@@ -1,4 +1,7 @@
 
+'实践是认识的来源'-->'Practice is the source of knowledge'
+
+
 2017年 07月 19日 星期三 17:27:51 CST
 
 git init [目录名] #初始化指定目录名为一个版本库(添加.git目录)或是初始化当前目录为一个版本库
