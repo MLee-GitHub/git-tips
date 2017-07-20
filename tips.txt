@@ -38,6 +38,7 @@ git branch --set-upstream-to=<远程分支名> #将当前分支与指定的远�
 git branch --unset-upstream <本地分支名> #将指定的本地分支与其关联远程分支取消关联
 
 git merge <分支名> #将指定的这个分支合并到当前分支中
+git merge --no-ff -m 'XXX' <branchName> #这样会在log中记录下来，而不是直接更改指针的位置(快速向前方式)
 
 git log [--pretty=oneline  选项表示只会显示提交id与提交说明comment] #显示提交日志信息(根据提交点的时间由近到远依次显示)
 git reflog #显示提交日志
