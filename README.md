@@ -1,9 +1,9 @@
- git-tips repository (Markdown format)
+ Git-tips repository (Markdown format)
  =======================
- tips.txt
+ Tips.txt
  -----------------------
- # some lines about git operations to beginners
- ## you & me all of this
+ # Some lines about git operations to beginners
+ ## You & me all of this
  
- this tips.txt file that include some simple and common lines of git could help beginners get started quickly.
+ This tips.txt file that include some simple and common lines of git could help beginners get started quickly.
  
