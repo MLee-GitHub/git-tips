@@ -19,7 +19,7 @@ git remote remove <url别名>
 git remote -v #显示url信息
 
 git status #查看版本库状态
-git diff #查看工作区与暂存区的区别
+git diff #查看工作区与版本库的区别
 git diff --cached #查看最近两次提交版本的区别
 
 git add <filename>... #将工作区filename添加到暂存区(stage)中以供提交到当前分支中

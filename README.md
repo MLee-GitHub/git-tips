@@ -7,3 +7,4 @@
  
  This tips.txt file that include some simple and common lines of git could help beginners get started quickly.
  
+	Fri, Jul 21, 2017  9:54:04 AM
